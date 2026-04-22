@@ -156,7 +156,7 @@ Mesmo prompts simples demonstram o impacto significativo que contexto, clareza e
 
 ## 📧 Autor
 
-Curso de Análise e Desenvolvimento de Sistemas  
+Curso de ciências da computação 
 Disciplina: Engenharia de Prompt e Aplicações em IA  
 Semestre: 2º
 
