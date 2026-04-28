@@ -1,0 +1,22 @@
+Parecer sobre a Unidade II – Programação Assistida por IA
+Tema: Boas práticas na colaboração humano-IA
+
+Na Unidade II, o principal tema estudado foi a programação assistida por inteligência artificial, com foco no uso de ferramentas como ChatGPT, GitHub Copilot, Replit e Ghostwriter como apoio no desenvolvimento de software. A unidade mostrou que a IA pode ajudar o programador em várias etapas, como planejamento, criação de código, refatoração, correção de erros, automação e documentação.
+
+Durante as aulas, foi possível compreender que a IA não deve ser usada apenas para “copiar e colar” respostas prontas, mas sim como uma parceira de estudo e desenvolvimento. O programador precisa saber explicar bem o problema, fornecer contexto, testar o código gerado e revisar os resultados. Dessa forma, a IA se torna uma ferramenta de apoio ao raciocínio, e não uma substituta do conhecimento humano.
+
+Um exemplo prático trabalhado na unidade foi o uso da IA em atividades de programação, como sugestões de código, refatoração e automação. No caso de um projeto envolvendo validação de CEP e CPF, por exemplo, a IA pode ajudar a criar funções, organizar melhor o código, explicar erros e sugerir melhorias. Porém, o estudante continua responsável por verificar se a lógica está correta, se os dados estão sendo tratados de forma segura e se o sistema realmente atende ao objetivo proposto.
+
+Um estudo de caso real que representa bem esse cenário é o uso do GitHub Copilot por desenvolvedores. Em um experimento divulgado pelo GitHub, programadores que utilizaram o Copilot concluíram uma tarefa de programação cerca de 55% mais rápido do que aqueles que não utilizaram a ferramenta. Esse dado mostra o potencial da IA para aumentar a produtividade em tarefas de desenvolvimento.
+
+Além disso, a McKinsey aponta que ferramentas de IA generativa podem acelerar atividades como documentação, geração de código e refatoração. Segundo a empresa, em alguns casos os desenvolvedores conseguiram concluir tarefas até duas vezes mais rápido com apoio da IA generativa. Porém, esse ganho depende do tipo de tarefa, da experiência do profissional e da forma como a ferramenta é utilizada.
+
+Os principais benefícios da IA na programação são a economia de tempo, o apoio ao aprendizado, a geração rápida de exemplos, a ajuda na identificação de erros e a melhoria na produtividade. Para estudantes, isso é muito importante, pois a IA pode funcionar como um apoio para entender conceitos, praticar lógica de programação e melhorar a qualidade dos projetos.
+
+Por outro lado, também existem riscos. A IA pode gerar códigos incorretos, inseguros ou incompatíveis com o projeto. A própria documentação do GitHub alerta que ferramentas como o Copilot podem apresentar “alucinações”, ou seja, apontar problemas inexistentes ou interpretar o código de forma errada. Por isso, toda sugestão da IA precisa ser revisada com cuidado antes de ser aplicada.
+
+Outro ponto importante envolve ética e responsabilidade. O código gerado por IA pode ter problemas de segurança, licenciamento ou uso inadequado de dados. Por isso, o desenvolvedor deve manter boas práticas, como testar o sistema, documentar decisões, revisar o código, proteger informações sensíveis e não depender totalmente da ferramenta.
+
+Diante disso, considero que podemos confiar na IA como parceira de código até certo ponto. Ela é útil para acelerar tarefas, sugerir soluções e apoiar o aprendizado, mas não deve ser tratada como uma fonte perfeita. A responsabilidade final pelo sistema continua sendo humana. O programador precisa analisar, testar e corrigir o que for necessário.
+
+Concluo que a Unidade II foi importante para mostrar que a colaboração humano-IA pode melhorar muito o processo de desenvolvimento, desde que seja usada com consciência. A IA deve ser vista como uma parceira, não como substituta. O bom uso da IA depende de planejamento, verificação, documentação, revisão por pares e responsabilidade ética. Portanto, aprender a trabalhar com IA é uma competência essencial para a formação de profissionais de tecnologia atualmente.
